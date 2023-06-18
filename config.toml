@@ -337,7 +337,9 @@ canonifyurls = true
   #      gravatarEmail =
   # Google Analytics
   #  >> See googleAnalytics
-  #    googleAnalytics =
+    googleAnalytics = "G-MZ2RZE93ZM"
+    [params.googleAnalytics]
+      async = true
   # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
   #  fbAdminIds =
   # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
